@@ -1,23 +1,31 @@
     Nmap
+    bluto
+    nikto
+    wireshark
+    whatweb
     Metasploit Framework
     EyeWitness
     ffuf
+    feroxbuster
     gobuster
     Msfvenom
     Crackmapexec
     BloodHound
     SharpHound
+    Responder
+    Inveigh
     PowerSploit-PowerView
     Mimikatz
+    pypykatz
     LaZagne
     Rubeus
     Kekeo
     Wireshark
     Evil-WinRm
     XfreeRDP
-    Ligolo-ng
+    Ligolo-ng -chisel -sshuttle -plink -dns2cat ...
     Seatbelt
-    ImPacket-Suite
+    ImPacket-Suite (secretsdump,Psexec,smbexec,wmiexec,smbclient,smbserver...)
     SQlmap
     Burp Suite
     John the Ripper
@@ -46,5 +54,29 @@
     theHarvester
     Sn1per
     Sublister
+    linpeas
+    winpeas
+    aquatone
+    httpx
+    Enum4linux
+    smtp-user-enum
+    onesixtyone
+    braa
+    snmpwalk
+    MailSniper
+    amass
+    masscan
+    dehashed
+    XSSeach
+    XSS-Loader
+    XStrike
+    XXEinjector
+    LFI-Freak
+    LFI-Finder
+    LFISuite
+    Liffy
+    PCredz
+    Net-Creds
+    
     and more..
     
